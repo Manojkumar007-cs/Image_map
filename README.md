@@ -1,4 +1,4 @@
-![Screenshot 2024-12-05 194803](https://github.com/user-attachments/assets/cbd42d67-0458-4dcf-a616-56f74a170d6e)# Ex04 Places Around Me
+# Ex04 Places Around Me
 # Date:05/12/2024
 # AIM
 To develop a website to display details about the places around my house.
@@ -436,6 +436,7 @@ Execute the programs and publish them.
 ![Screenshot 2024-12-05 191037](https://github.com/user-attachments/assets/b101886a-0b84-4595-89fc-dc59da1afcc2)
 ![Screenshot 2024-12-05 191119](https://github.com/user-attachments/assets/802e133e-24bc-4f30-93de-f67f2e0798bd)
 ![Screenshot 2024-12-05 191201](https://github.com/user-attachments/assets/74f4bb3f-fc21-46fc-a188-44d9fd87567a)
+![Screenshot 2024-12-05 194803](https://github.com/user-attachments/assets/cbd42d67-0458-4dcf-a616-56f74a170d6e)
 ![Screenshot 2024-12-05 194820](https://github.com/user-attachments/assets/88d50924-acc6-4d3a-81e4-38b6493f2587)
 ![Screenshot 2024-12-05 194837](https://github.com/user-attachments/assets/18c8866f-5d4a-49ad-9941-7bb4369bb42e)
 ![Screenshot 2024-12-05 192052](https://github.com/user-attachments/assets/4cb83033-96e8-4ad5-b97e-8a136c1db2b6)
